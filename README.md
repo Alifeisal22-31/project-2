@@ -17,3 +17,5 @@ This is a simple photography portfolio created for my assignment. To showcase my
  open index.html with live server in VS code
 
  # Author: Alifeisal22-31
+
+ # year: 2026
