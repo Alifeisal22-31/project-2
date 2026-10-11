@@ -19,3 +19,5 @@ This is a simple photography portfolio created for my assignment. To showcase my
  # Author: Alifeisal22-31
 
  # year: 2026
+ 
+ # Thank you!
