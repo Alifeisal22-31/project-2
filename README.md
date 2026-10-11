@@ -15,3 +15,5 @@ This is a simple photography portfolio created for my assignment. To showcase my
 
  ## How to run
  open index.html with live server in VS code
+
+ # Author: Alifeisal22-31
