@@ -14,7 +14,7 @@ h1{
 }
 .gallery ul {
     list-style: none;
-    display: grid;
+    display: inline-block;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     padding: 0;
