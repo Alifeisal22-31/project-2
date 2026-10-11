@@ -14,10 +14,12 @@ h1{
 }
 .gallery ul {
     list-style: none;
-    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     padding: 0;
+    justify-content: center;
 }
 .gallery li {
     background-color: aqua;
