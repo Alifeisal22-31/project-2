@@ -20,4 +20,11 @@ This is a simple photography portfolio created for my assignment. To showcase my
 
  # year: 2026
  
- # Thank you!
+ # Thank you!  
+
+ ## Live website
+ https://alifeisal.github.io/photography/
+
+ ## copyright and License
+ @ 2026 alifeisal.Ali right reserved
+ MIT License
